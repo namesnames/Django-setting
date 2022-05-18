@@ -123,6 +123,7 @@ ex) Starting development server at http://127.0.0.1:8000/
 >> 관리자 계정을 만들 수 있게 해줍니다.
 
 - 웹서비스에 대한 관리자 계정을 생성하고 로그인후, 해당 웹서비스의 관리자로서 관리할 수 있게 됩니다.
+
 ![image](https://user-images.githubusercontent.com/103047410/168936393-6d2fb651-7b2c-485f-bd06-c56fe97232b5.png)
 
 ![image](https://user-images.githubusercontent.com/103047410/168970106-0f4fcc68-bf9c-4ec7-b0b4-db8a14caaa7b.png)
