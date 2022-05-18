@@ -47,18 +47,7 @@
 
 ---
 
-### 📌 어플리케이션 추가
 
-- python manage.py startapp app1
-   
-   - app1 이라는 이름의 어플리케이션을 생성합니다.
-
-![image](https://user-images.githubusercontent.com/88240193/168726309-24c3c1d0-cf17-45f5-8372-4428d1d6b977.png)
-
-- INSTALLED_APPS
-    - settings.py 파일의 INSTALLED_APPS 에 'app1' 을 추가해서 새로운 어플리케이션을 등록합니다.
-
----
 
 ## 📌 파이썬 파일 분석
 
