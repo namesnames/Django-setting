@@ -76,6 +76,7 @@ EX) 기본 URL : "www.codelion.net" 일때
 
 
 
+
 ### 상세
 
 #### 1. 서버 켜기
@@ -124,3 +125,15 @@ ex) Starting development server at http://127.0.0.1:8000/
 - 웹서비스에 대한 관리자 계정을 생성하고 로그인후, 해당 웹서비스의 관리자로서 관리할 수 있게 됩니다.
 ![image](https://user-images.githubusercontent.com/103047410/168936393-6d2fb651-7b2c-485f-bd06-c56fe97232b5.png)
 
+![image](https://user-images.githubusercontent.com/103047410/168970106-0f4fcc68-bf9c-4ec7-b0b4-db8a14caaa7b.png)
+
+## settings.py
+
+![image](https://user-images.githubusercontent.com/103047410/168970660-a3154f94-1002-4f61-b7a3-2b708593139f.png)
+
+![image](https://user-images.githubusercontent.com/103047410/168971130-c1908ef7-c4e4-42bf-862a-335e20d763d7.png)
+
+![image](https://user-images.githubusercontent.com/103047410/168971183-fa9650f6-0534-4dee-88c4-f86dff975885.png)
+
+
+![image](https://user-images.githubusercontent.com/103047410/168970486-3d437250-43cc-4294-ad4b-c4caeceec54f.png)
