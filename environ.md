@@ -114,17 +114,19 @@ ex) Starting development server at http://127.0.0.1:8000/
 각각에 대해 앱을 만들어서 쇼핑몰 프로젝트 안에 담는것이 효율적!
 
 - 앱을 생성후 장고 프로젝트가 인식할 수 있도록 INSTALLED_APPS 에다 등록해줘야 합니다.
+![image](https://user-images.githubusercontent.com/103047410/168935619-1262a0c3-5882-49a1-96de-5ec874b7d61a.png)
+![image](https://user-images.githubusercontent.com/103047410/168935924-570d0519-0745-4ced-a522-4f8e74ca5be7.png)
+
 
 ---
 
 #### 3. DB 초기화 및 변경사항 반영
 
 > $ python manage.py migrate 
->> db.sqlite3 라는 DB를 초기화 해주거나, 해당 프로젝트에서 db.sqlite3 데이터베이스를 변경할 일이 생기면 변경해줍니다.
+>> DB를 초기화 해주거나, 해당 프로젝트에서 DB를 변경할 일이 생기면 변경된 사항을 알려주는 기능입니다. 
 
-- DB를 초기화 해주거나, 해당 프로젝트에서 DB를 변경할 일이 생기면 변경된 사항을 알려주는 기능입니다.
-
-- dq.sqlite3 : 장고에서 기본적으로 제공하는 DB
+-db.sqlite3 라는 DB를 초기화 해주거나, 해당 프로젝트에서 db.sqlite3 데이터베이스를 변경할 일이 생기면 변경해줍니다.
+(dq.sqlite3 : 장고에서 기본적으로 제공하는 DB)
 
 ---
 
@@ -134,4 +136,5 @@ ex) Starting development server at http://127.0.0.1:8000/
 >> 관리자 계정을 만들 수 있게 해줍니다.
 
 - 웹서비스에 대한 관리자 계정을 생성하고 로그인후, 해당 웹서비스의 관리자로서 관리할 수 있게 됩니다.
+![image](https://user-images.githubusercontent.com/103047410/168936393-6d2fb651-7b2c-485f-bd06-c56fe97232b5.png)
 
