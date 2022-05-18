@@ -96,6 +96,7 @@ ex) Starting development server at http://127.0.0.1:8000/
 각각에 대해 앱을 만들어서 쇼핑몰 프로젝트 안에 담는것이 효율적!
 
 - 앱을 생성후 장고 프로젝트가 인식할 수 있도록 INSTALLED_APPS 에다 등록해줘야 합니다.
+- (myapp 이라는 어플 예시)
 ![image](https://user-images.githubusercontent.com/103047410/168935619-1262a0c3-5882-49a1-96de-5ec874b7d61a.png)
 ![image](https://user-images.githubusercontent.com/103047410/168935924-570d0519-0745-4ced-a522-4f8e74ca5be7.png)
 
