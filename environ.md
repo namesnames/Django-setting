@@ -60,6 +60,8 @@ EX) 기본 URL : "www.codelion.net" 일때
 
 ![image](https://user-images.githubusercontent.com/103047410/168953804-59d90839-21cf-4fe3-b275-7319a2b2076b.png)
 
+![image](https://user-images.githubusercontent.com/103047410/168955118-8f51878b-c142-4c84-bdd6-e1763b91a84b.png)
+
 
 ---
 
