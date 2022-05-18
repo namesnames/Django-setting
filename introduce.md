@@ -36,6 +36,7 @@
       C : "C"ontroller ==  웹 서비스 내부동작 논리 담당
 
 (장고는 MVC 패턴을 MTV 패턴이라 부름. MTV = Model + Template + View)
+
       M : "M"odel ==  DB와 상호작용담당
       T : "T"emplate == 사용자 인터페이스 (사용자가 직접 눈으로 보고 상호작용 할수 있는 부분) 을 담당
       V : "V"iew ==  웹 서비스 내부동작 논리 담당
