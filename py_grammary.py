@@ -1,8 +1,8 @@
 # 파이썬 기본 문법
 # 우리가 배운 내용 : 딕셔너리, Exception Handling, 클래스, 모듈, 패키지, 라이브러리
 
-import random # random 모듈
-# 파이썬 random 라이브러리 내에 렌덤 관련 모듈중에 random 모듈을 import
+import random # random 모듈 (난수)
+
 
 # 계산기 클래스
 class Calculator:
@@ -14,11 +14,11 @@ class Calculator:
         try:
             result = self.num1 + self.num2
             return result
-        except: # 그냥 except 만 적을시, 모든 예외를 처리하는 except 블록이 된다.
+        except: # 어떤 오류가 발생하든 아래코드실행
             print("더하기 연산을 진행하던 중에, Error가 발생!")  # 예외가 발생시 처리하는 구문
         else:  # try 블록에서 그 어떠한 예외도 발생하지 않았을떄 실행
             print("아무런 예외가 발생하지 않았을때 실행되는 블록입니다.")
-        finally:
+        finally: #예외 O든X든 무조건 아래코드 실행
             print("예외 처리와 상관없이 반드시 무조건 실행되는 블록")
     
     def divide(self): # 나누기  메소드 
@@ -57,8 +57,6 @@ for element in my_dic.values():   # 딕셔너리에 담겨있는 value 들에 �
 
 '''
 ===============================
-예외 처리와 상관없이 반드시 무조건 실행되는 블록
-3
-예외 처리와 상관없이 반드시 무조건 실행되는 블록
-4
+난수:6
+난수:4
 '''
