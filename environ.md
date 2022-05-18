@@ -69,6 +69,8 @@
 EX) 기본 URL : "www.codelion.net" 일때
 => www.codelion.net/login , www.codelion.net/classroom/, www.codelion.net/classroom/10 과 같은 URL 을 설계 가능
 
+![image](https://user-images.githubusercontent.com/103047410/168953804-59d90839-21cf-4fe3-b275-7319a2b2076b.png)
+
 
 ---
 
