@@ -128,12 +128,13 @@ ex) Starting development server at http://127.0.0.1:8000/
 ![image](https://user-images.githubusercontent.com/103047410/168970106-0f4fcc68-bf9c-4ec7-b0b4-db8a14caaa7b.png)
 
 ## settings.py
-
+-secret key
+-Debug
 ![image](https://user-images.githubusercontent.com/103047410/168970660-a3154f94-1002-4f61-b7a3-2b708593139f.png)
+![image](https://user-images.githubusercontent.com/103047410/168970486-3d437250-43cc-4294-ad4b-c4caeceec54f.png)
 
 ![image](https://user-images.githubusercontent.com/103047410/168971130-c1908ef7-c4e4-42bf-862a-335e20d763d7.png)
-
 ![image](https://user-images.githubusercontent.com/103047410/168971183-fa9650f6-0534-4dee-88c4-f86dff975885.png)
 
 
-![image](https://user-images.githubusercontent.com/103047410/168970486-3d437250-43cc-4294-ad4b-c4caeceec54f.png)
+
