@@ -128,8 +128,9 @@ ex) Starting development server at http://127.0.0.1:8000/
 ![image](https://user-images.githubusercontent.com/103047410/168970106-0f4fcc68-bf9c-4ec7-b0b4-db8a14caaa7b.png)
 
 ## settings.py
--1.secret key
--2.Debug
+### 1.secret key
+
+### 2.Debug
 
 ![image](https://user-images.githubusercontent.com/103047410/168970660-a3154f94-1002-4f61-b7a3-2b708593139f.png)
 
@@ -139,14 +140,14 @@ ex) Starting development server at http://127.0.0.1:8000/
 
 ![image](https://user-images.githubusercontent.com/103047410/168971183-fa9650f6-0534-4dee-88c4-f86dff975885.png)
 
--3. #Internationlization
+### 3.Internationlization
 언어나 시간 설정
 
 ![image](https://user-images.githubusercontent.com/103047410/168972098-3c574dca-5070-4ae7-a368-1589082ea8c2.png)
 
--4.STATIC_URL
-웹사이트에서 미리 준비해 둔 static files 정적인(움직이지 않는)파일들의 url을 적어준다. (meida file과 반대개념)
-ex)이미지파일,css파일 등
+### 4.STATIC_URL
+-웹사이트에서 미리 준비해 둔 static files 정적인(움직이지 않는)파일들의 url을 적어준다. (meida file과 반대개념)
+-ex)이미지파일,css파일 등
 
 ![image](https://user-images.githubusercontent.com/103047410/168972781-228664e9-0eb1-445b-90c0-3641f0208c54.png)
 
